@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15 produtos em estoque com construtor", "15 produtos em estoque com construtor\15 produtos em estoque com construtor.csproj", "{38354E72-4C87-48CB-A8DD-4F31978ADEAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38354E72-4C87-48CB-A8DD-4F31978ADEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38354E72-4C87-48CB-A8DD-4F31978ADEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38354E72-4C87-48CB-A8DD-4F31978ADEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38354E72-4C87-48CB-A8DD-4F31978ADEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D61627A-A1BE-46EA-A574-605113170E03}
+	EndGlobalSection
+EndGlobal

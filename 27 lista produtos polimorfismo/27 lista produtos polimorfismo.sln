@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27 lista produtos polimorfismo", "27 lista produtos polimorfismo\27 lista produtos polimorfismo.csproj", "{11DF2B85-16A6-427C-A950-16FD2C34E640}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11DF2B85-16A6-427C-A950-16FD2C34E640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11DF2B85-16A6-427C-A950-16FD2C34E640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11DF2B85-16A6-427C-A950-16FD2C34E640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11DF2B85-16A6-427C-A950-16FD2C34E640}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41AC2F0F-85F4-4006-BA59-BA8D5CEF4C27}
+	EndGlobalSection
+EndGlobal
